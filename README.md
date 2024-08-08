@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragulbarathi
 - 👀 I’m interested in Automation,Gaming. 
-- 🌱 I’m currently learning Java,Selenium.
+- 🌱 I’m currently learning Java,Python,API Testing,Selenium.
 - 💞️ I’m looking to collaborate on Automation projects.
 - 📫 How to reach me www.linkedin.com/in/ragul-ravibarathi-72831bbb
 - ⚡ Fun fact: I play fps a lot.
